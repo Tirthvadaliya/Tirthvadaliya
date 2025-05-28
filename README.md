@@ -3,14 +3,14 @@
 
 
 
-<h2 align="center">🌟 Java Full Stack Developer | Problem Solver | Tech Enthusiast 🌟</h2>
+<!--<h2 align="center">🌟 Java Full Stack Developer | Problem Solver | Tech Enthusiast 🌟</h2>-->
 
 ---
 
 ### 👨‍💻 About Me
-
-- 💻 I’m a passionate **Java Full Stack Developer**
-- 🚀 Skilled in building scalable web applications using **Spring Boot + React.js**
+<!-- - 🚀 Skilled in building scalable web applications using **Spring Boot + React.js** -->
+<!-- - 💻 I’m a passionate **Java Full Stack Developer** -->
+- 🚀A dedicated Computer Engineering student passionate about Java Full Stack Developer,
 - 🔧 Constantly learning and exploring new technologies
 - 🧠 Focused on writing clean, maintainable, and efficient code
 
@@ -19,10 +19,10 @@
 ### 🛠️ Tech Stack
 
 #### 🚀 Back-End
-- Java, Spring Boot, Spring MVC, Hibernate, JPA
+- Java, Spring Boot, Spring MVC, Hibernate, Python 
 
 #### 🎨 Front-End
-- HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS
+- HTML, CSS, JavaScript, , Angular
 
 #### 🗃️ Databases
 - MySQL, PostgreSQL, MongoDB
@@ -31,6 +31,8 @@
 - Git & GitHub
 - Postman, Maven, Docker
 - IntelliJ IDEA / VS Code
+- visual studio
+- Adobe illustrator
 
 
 
