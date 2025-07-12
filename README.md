@@ -52,7 +52,7 @@
 ### 📫 Contact Me
 
 - 💌 Email: vadaliyatirth@gmail.com
-<!--         - - 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) -->
+- 💼 LinkedIn: https://www.linkedin.com/in/tirthvadaliya/
 
 ---
 
